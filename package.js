@@ -1,1 +1,8 @@
-
+{
+  "name": "key-system",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.6"
+  }
+}
